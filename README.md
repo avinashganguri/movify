@@ -27,6 +27,7 @@ Handling/Analyzing huge amount of data input results more accuracy ratings.
 The ratings and percentages would be calculated by the system and there will not be any human intervention, the ratings will be unbiased. 4.Top rated movies recommendations would be displayed based on the analysis made by the system.
 Objective:
 
+
 To create a Movie Rating System that automatically analyze the user opinions from social media using natural language processing and machine learning.
 
 ## System Features:
