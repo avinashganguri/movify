@@ -1,4 +1,4 @@
-# Movify - Automatic Movie Rating System
+# Movify - Automated Movie Rating System
 
 
 ## Team Members:
