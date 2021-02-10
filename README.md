@@ -61,4 +61,3 @@ PyMongo - A python library for MongoDB
 
 
 **The Documentation for this project can be seen in this Wiki: [Link](https://github.com/jaisekhar/ProjectJARVIS/wiki)**
-
