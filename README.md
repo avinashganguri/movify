@@ -1,17 +1,6 @@
 # Movify - Automated Movie Rating System
 
 
-## Team Members:
-
-Jaisekhar Koya – 13
-
-Chaitanya Mallepudi – 16
-
-Avinash Ganguri – 7
-
-Nikhil Kantipudi – 9
-
-
 ## Project Goal:
 
 The main idea of this project is to design a system that collects users reviews on the movie from social media which would be used to calculate the rating based on the sentiments of the users. The system collects all the comments that are associated for a specific movie and will calculate the average ratings for each movie and percentages will be displayed for each of them.
